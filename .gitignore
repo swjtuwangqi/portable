@@ -2,7 +2,6 @@
 
 # Blacklist everything
 *
-# Whitelist gitignore
+# Whitelist .gitignore 
 !.gitignore
 # Whitelist the file you're interested in. 
-!*.gitkeep
